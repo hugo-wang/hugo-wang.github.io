@@ -1,0 +1,6 @@
+{
+  "name": "Hugo-wang.GitHub.io",
+  "tagline": "Hugo's Blog",
+  "body": "\r\n# This line testing h1\r\n\r\n## This line testing h2\r\n\r\n### This line testing h3\r\n\r\n[Testing Link Text](http://blog.csdn.net/renfufei/article/details/37725057/)\r\n\r\n[Testing Image](http://i0.letvimg.com/lc03_isvrs/201504/24/10/00/9dc7ce33-8547-45ef-9ae5-39a4c089033c.jpg)\r\n\r\n`awk 'NF{a=$0}END{print a}'`\r\n\r\n> Testing Blockqoute \r\n\r\n\r\n***\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
